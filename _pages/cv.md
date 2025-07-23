@@ -21,14 +21,15 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* 2014-2018: digitalization project manager in Insurance industry
+  * DXC Technology
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
+* 2012-2014: software engineer
+  * China Pacific Insurance (Group) Co., Ltd.
+  * Duties included:
+    * Sub-skill 2.1
   * Supervisor: Professor Git
   
 Skills
